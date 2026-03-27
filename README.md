@@ -1,11 +1,3 @@
-<a href="https://twitter.com/AlkadiHalah">
-  <img height="30" src="https://github.com/halkadi/halkadi/blob/main/icons/twitter.png?raw=true">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/halah-alkadi/">
-  <img height="30" src="https://github.com/halkadi/halkadi/blob/main/icons/linkedin.png?raw=true">
-</a>
-
 # Hello 👋 I'm Halah Alkadi
 
 Welcome to my GitHub profile!
