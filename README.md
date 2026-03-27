@@ -16,25 +16,26 @@ This space highlights my educational background 🎓, professional and research 
 
 ## 🎓 Education
 
-- B.S. in Medical Technology (2003)   
-- M.S. in Biology / Clinical Laboratory Science (2012)   
-- Ph.D. in Biology / Clinical Laboratory Science (2018)   
-- M.S. in Biotechnology / Bioinformatics (2021) 
-- M.Sc. in Health Data Science for Applied Precision Medicine (2023)   
-- Currently pursuing Ph.D. in Diabetes, Endocrinology, and Reproductive Biology   
+- Currently pursuing PhD in Diabetes, Endocrinology, and Reproductive Biology
+- MSc in Health Data Science for Applied Precision Medicine (2023)
+- MSc in Biotechnology / Bioinformatics (2021)
+- PhD in Biology / Clinical Laboratory Science (2018)
+- MSc in Biology / Clinical Laboratory Science (2012)
+- BSc in Medical Technology (2003)    
 ---
 
 ## 💼 Professional Experience
 
-- Teaching Assistant in Hematology (< 2 years)   
-- Pre-doctoral Research Fellow (4 years)   
-- Post-doctoral Research Fellow (2 years)   
+- Assistant Professor (> 4 years)
+- Post-doctoral Research Fellow (2 years)
+- Pre-doctoral Research Fellow (4 years)
+- Teaching Assistant (< 2 years)   
 ---
 
 ## 🔬 Skills & Experience
 
 - 2.5 years of hematology laboratory experience   
-- 6 years of research experience in:  
+- 10 years of research experience including:  
   - Molecular biology  
   - Hematology  
   - iPS cells  
@@ -47,6 +48,7 @@ This space highlights my educational background 🎓, professional and research 
 
 If you are new to coding, you may notice that many GitHub repositories are quite advanced, with limited explanation of the commands used.
 That is exactly why I am here.
+
 As someone who started from the basics, I understand how challenging it can be when small but important details are missing. Through my GitHub, I aim to share code in a clear, beginner-friendly way to support others on their journey—especially in **bioinformatics and health data science.
 ---
 
