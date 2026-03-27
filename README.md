@@ -38,8 +38,7 @@ This space highlights my educational background 🎓, professional and research 
 
 If you are new to coding, you may notice that many GitHub repositories are quite advanced, with limited explanation of the commands used.
 That is exactly why I am here.
-
-As someone who started from the basics, I understand how challenging it can be when small but important details are missing. Through my GitHub, I aim to share code in a clear, beginner-friendly way to support others on their journey—especially in **bioinformatics and health data science.
+As someone who started from the basics, I understand how challenging it can be when small but important details are missing. Through my GitHub, I aim to share code in a clear, beginner-friendly way to support others on their journey.
 ---
 
 ✨ Thanks for visiting my profile!
