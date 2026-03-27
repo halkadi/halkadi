@@ -6,12 +6,12 @@ This space highlights my educational background 🎓, professional and research 
 
 ## 🎓 Education
 
-- Currently pursuing PhD in Diabetes, Endocrinology, and Reproductive Biology
-- MSc in Health Data Science for Applied Precision Medicine (2023)
+- Currently pursuing a PhD in Diabetes, Endocrinology, and Reproductive Biology
+- MSc in Health Data Science for Applied Precision Medicine (2024)
 - MSc in Biotechnology / Bioinformatics (2021)
 - PhD in Biology / Clinical Laboratory Science (2018)
 - MSc in Biology / Clinical Laboratory Science (2012)
-- BSc in Medical Technology (2003)    
+- BSc in Medical Technology (2008)    
 ---
 
 ## 💼 Professional Experience
